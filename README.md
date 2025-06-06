@@ -36,6 +36,12 @@ Primeros pasos en Nest:
 * Class Validator
 * Class Transformer
 
+Populate DB
+```
+http://localhost:3000/seed
+```
+
+
 
 
 ## Project setup
